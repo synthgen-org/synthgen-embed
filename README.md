@@ -1,5 +1,12 @@
 # Synthgen Embed
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/synthgen-org/synthgen-embed?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/synthgen-org/synthgen-embed?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/synthgen-org/synthgen-embed?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/synthgen-org/synthgen-embed?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/synthgen-org/synthgen-embed?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/synthgen-org/synthgen-embed?style=flat-square)
+
 Welcome to the **Synthgen Embed** repository! This project provides a lightweight JavaScript tool to help you mark and authenticate AI-generated content on your website. By using this embed, you can bring transparency to your content and build trust with your audience.
 
 ---
